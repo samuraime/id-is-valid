@@ -1,0 +1,21 @@
+{
+  "name": "id-is-valid",
+  "version": "0.1.0",
+  "description": "Validate Chinese citizen identification number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "id",
+    "validate",
+    "身份证",
+    "验证"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samuraime/id-is-valid.git"
+  },
+  "author": "SamuraiMe",
+  "license": "MIT"
+}
